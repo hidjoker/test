@@ -6,6 +6,8 @@ public class myclass {
 		System.out.println("hello java");
 		
 		System.out.println("æ»≥Á«œººø‰");
+		int age = 50;
+		System.out.println("age = " + age);
 		
 		
 		
