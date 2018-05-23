@@ -7,6 +7,7 @@ public class myclass {
 		
 		System.out.println("æ»≥Á«œººø‰");
 		
+		System.out.println("π›∞©Ω¿¥œ¥Ÿ");
 		
 		
 		
